@@ -8,6 +8,3 @@
   </div>
   </div>
   
-  .column{
-  float: "right"
-  }
